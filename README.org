@@ -1,0 +1,5 @@
+* What is this?
+
+It's a bare-bones base-image you can use to build cross-architecture (i386 and
+armhf) docker images from. It's designed to be used for things like a Kubernetes
+Raspberry PI cluster.
